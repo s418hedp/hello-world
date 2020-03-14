@@ -1,2 +1,2 @@
 # hello-world
-my first attempt on data science
+my first attempt on learning data science using python
